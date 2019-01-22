@@ -3,8 +3,11 @@
 > My GitHub Pages. https://fiahfy.github.io
 
 
-## Launch server
+## Development
+```bash
+# install dependencies
+bundle install
+
+# launch server
+bundle exec jekyll serve
 ```
-npx http-server
-```
-Serve with `http://localhost:8080/`
