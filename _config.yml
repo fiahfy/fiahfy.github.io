@@ -1,6 +1,7 @@
 title: Fiahfy.github.io
-description: 
-google_analytics: 
+description:
+repository: fiahfy/fiahfy.github.io
+google_analytics:
 show_downloads: false
 theme: jekyll-theme-minimal
 
