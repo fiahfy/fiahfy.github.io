@@ -11,6 +11,6 @@
 
 ### Chrome Extensions
 * [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow) - <small>Chrome Extension for Messages Flow on YouTube Live Chat.</small> <small>([download](https://github.com/fiahfy/youtube-live-chat-flow/releases))</small>
-* [YouTube Live Chat Speaker](https://github.com/youtube-live-chat-speaker/picty) - <small>Chrome Extension for Message Speaker on YouTube Live Chat.</small> <small>([download](https://github.com/fiahfy/youtube-live-chat-speaker/releases))</small> <small>([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-speaker/ecnpdbepgdooliaifgfkfehehojmiddd))</small>
-* [YouTube Audio Only](https://github.com/youtube-audio-only/picty) - <small>Chrome Extension for Audio Only on YouTube.</small> <small>([download](https://github.com/fiahfy/youtube-audio-only/releases))</small> <small>([webstore](https://chrome.google.com/webstore/detail/youtube-audio-only/bcoibpphkjajfgggmbnogddhlebdhllb))</small>
-* [More](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
+* [YouTube Live Chat Speaker](https://github.com/fiahfy/youtube-live-chat-speaker) - <small>Chrome Extension for Message Speaker on YouTube Live Chat.</small> <small>([download](https://github.com/fiahfy/youtube-live-chat-speaker/releases))</small> <small>([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-speaker/ecnpdbepgdooliaifgfkfehehojmiddd))</small>
+* [YouTube Audio Only](https://github.com/fiahfy/youtube-audio-only) - <small>Chrome Extension for Audio Only on YouTube.</small> <small>([download](https://github.com/fiahfy/youtube-audio-only/releases))</small> <small>([webstore](https://chrome.google.com/webstore/detail/youtube-audio-only/bcoibpphkjajfgggmbnogddhlebdhllb))</small>
+* [and more](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
