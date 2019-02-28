@@ -3,6 +3,12 @@
 * [GitHub (@fiahfy)](https://github.com/fiahfy)
 * [Blog](https://fiahfy.blogspot.com)
 
+
+### Web Apps
+* [AniHani.link](https://github.com/fiahfy/anihani-link) <small>([fiahfy-anihani.firebaseapp.com](https://fiahfy-anihani.firebaseapp.com))</small> - <small>Unofficial schedule site for AniMare and HoneyStrap.</small>
+* [Paddy](https://github.com/fiahfy/paddy) <small>([fiahfy.github.io/paddy/](https://fiahfy.github.io/paddy/))</small> - <small>When did you do that?</small>
+
+
 ### Electron Apps
 * [Hosty](https://github.com/fiahfy/hosty) - <small>Hosts File Manager based on Electron.</small> <small>([download](https://github.com/fiahfy/hosty/releases))</small>
 * [Picty](https://github.com/fiahfy/picty) - <small>Simple Image Viewer based on Electron.</small> <small>([download](https://github.com/fiahfy/picty/releases))</small>
